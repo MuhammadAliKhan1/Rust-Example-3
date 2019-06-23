@@ -1,0 +1,1 @@
+Contains functions to generate random numbers/random numbers with range/random string,sort a Vector of integers/Vector of floats,generate integer vector(With condition),number guessing game,Dice simulator,Hi-Lo game,Adding values in a loop and calculator with a menu to activate different functions
